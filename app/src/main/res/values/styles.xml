@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="TitleBar">TitleBar</style>
+
+    <style name="TitleBarLogo">TitleBarLogo</style>
+
+    <style name="TitleBarSeparator">TitleBarSeparator</style>
+
+    <style name="TitleBarText">TitleBarText</style>
+
+    <style name="TitleBarAction">TitleBarAction</style>
+</resources>
